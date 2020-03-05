@@ -1,5 +1,5 @@
 a {
-    color: #007a7a;
+    color: #708eff;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -26,9 +26,10 @@ h1,h2,h3,h4,h5,h6 {
 .nav-tabs > li.active > a:hover {
     font-weight: bold;
     border: none;
-    border-bottom: 3px solid #007a7a;
+    border-bottom: 3px solid #708eff;
 }
-
+/* #007a7a
+*/
 
 .timeline-panel {
     list-style-type: none;
@@ -77,7 +78,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .btn-icon {
-    background-color: #007a7a;
+    background-color: #708eff;
     color: white;
     font-size: 16px;
     padding: 2px;
